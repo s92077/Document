@@ -1,0 +1,8 @@
+\frametitle{性質}
+設$S$為一正交集，則$S$線性獨立。
+^^I\begin{figure}[H]
+^^I^^I\centering
+^^I^^I\includegraphics[height=5cm]{gramschmidt.png}
+^^I^^I\caption{圖像化}
+^^I^^I\label{fig:gram-schmidt}
+^^I\end{figure}

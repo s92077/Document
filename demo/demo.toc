@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{內積與正交}{3}{0}{1}
+\beamer@sectionintoc {2}{Gram Schimidt過程}{7}{0}{2}
+\beamer@sectionintoc {3}{對稱矩陣與特徵空間}{20}{0}{3}
