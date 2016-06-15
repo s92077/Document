@@ -69,6 +69,9 @@ Detailed information on using Metropolis can be found in the [manual][].
 For an alternative dark color theme, please have a look at Ross Churchley's
 excellent [owl](https://github.com/rchurchley/beamercolortheme-owl) theme.
 
+```創作動機
+為了線性代數共筆製作的beamer投影片，希望能對大家有幫助。
+
 
 ## License
 
